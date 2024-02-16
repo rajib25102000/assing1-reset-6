@@ -1,0 +1,182 @@
+.banner{
+   
+   background-image: url('../resources/banner\ image.png');
+   background-repeat: no-repeat;
+   position: relative;
+   background-size: cover;
+   height:600px;
+   width:1320px;
+   margin:auto;
+  
+}
+.banner-text{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   height: 100%;
+   width: 100%;
+   font-size: 30px;
+}
+
+.text{
+    color:black;
+    text-align: center;
+}
+section{
+    margin-top:50px;
+    
+}
+.off-sec{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+    text-align: center;
+}
+.off-write{
+    color: red;
+}
+.catagory{
+    font-size:x-large;
+    font-weight:800;
+    color: black;
+}
+.off-img{
+    width: 800px;
+    height: 500px;
+}
+.midnight-bg-img{
+  background-image: url('../resources/Vectorrr.png');
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: cover;
+  height:600px;
+  width:1320px;
+  margin:auto;
+}
+.mid-contain{
+    display: flex;
+    gap:30px;
+    align-items: center;
+    justify-content: center;
+    padding: 100px;
+   
+   
+}
+.mid-details{
+    color: white;
+    width: 600px;
+}
+.place-info{
+    background-image: linear-gradient(pink, white);
+    height:400px;
+    width:1320px;
+    margin: auto;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.color-text{
+   color: red; 
+}
+.place-detaile{
+    font-size:large;
+    font-weight: 900;
+}
+.bt-btn{
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    padding: 10px;
+
+}
+.offer-info{
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: center; 
+    height:400px;
+    width:1320px;
+    padding:100px;
+    gap:100px;
+}
+.holiday-info{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+}
+.sale-img{
+    background-image: url('../resources/Rectangle\ 1.png');
+    background-repeat: no-repeat;
+    margin-right: 0px;
+    margin-left:900px ;
+    height: 430px;
+    border-radius: 10px 10px 0px 10px;
+    
+}
+.sale-bottom-img{
+    background-image: url('../resources/Rectangle\ 2.png');
+    background-repeat: no-repeat;
+    width:1320px;
+    height: 100px;
+    border-radius: 10px 0px 0px 10px;
+    position: relative;
+}
+
+.gift-conner{
+    height:1200px;
+    width:1320px;
+    margin: auto;
+}
+.img-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap:15px;
+    
+}
+.sub-sec{
+    margin: auto;
+    height:400px;
+    width:1320px;
+    background-color: papayawhip;
+    border-radius: 10px;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 50px;
+}
+.input-btn{
+    border: none; 
+    width: 348px; 
+    height: 52px;
+    border-radius: 10px 10px 0px 10px;
+}
+.input-info{
+   display: flex;
+   flex-direction: row;
+  
+}
+.footer-top{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+}
+.foot-img{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    text-align: center;
+    gap: 10px;
+}
